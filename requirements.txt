@@ -1,0 +1,1 @@
+flask-babel==0.11.2
